@@ -21,6 +21,9 @@
     <ClCompile Include="trab8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="trab11.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\imgs\lena.jpg">
